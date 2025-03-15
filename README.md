@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pratham27dw@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_VtTQtmJ7UeDaQjN1F5jJHgM8vn0mOD0/view?usp=sharing](https://drive.google.com/file/d/1_VtTQtmJ7UeDaQjN1F5jJHgM8vn0mOD0/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_VtTQtmJ7UeDaQjN1F5jJHgM8vn0mOD0/view?usp=sharing](https://drive.google.com/file/d/1d6RvOYbctdAatBj20uyKZcz6F1ZdbE71/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
