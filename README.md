@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Dwivedi</h1>
-<h3 align="center">🚀 MERN Stack and Next.js Developer passionate about new technologies</h3>
+<h3 align="center">🚀 Backend Developer passionate about new technologies</h3>
 <h5>Due to some issues the git commits between may 2024 to october 2024 is not showing 😞 . So don't judge on that 😊🙏 </h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamdwivedi27&label=Profile%20views&color=0e75b6&style=flat" alt="prathamdwivedi27" /> </p>
